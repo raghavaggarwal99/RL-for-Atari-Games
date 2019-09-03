@@ -5,3 +5,4 @@ This is a standard code for the cartpole problem that trains itself to get the m
 You can read the theory on Open AI gym library on its Documentation Page and basics of RL as mainly that we use is its Q-Values Dynamic Progarmming function.
 
 
+![sfv](https://github.com/raghavaggarwal99/RL-for-Atari-Games/blob/master/fig1.png)
